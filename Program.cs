@@ -11,8 +11,8 @@ class Program
 {
 
     public static Sprite s = new Sprite(new Texture("img.bmp"), new IntRect(-1,-1,16,16));
-    public static RenderWindow window = new RenderWindow(new VideoMode(800U, 600U), "Brainf*ck Game Engine By Dylan Dunn");
-    public static byte[] L = new byte[1026];
+    public static RenderWindow window = new RenderWindow(new VideoMode(512U, 496U), "Brainf*ck Game Engine");
+    public static byte[] L = new byte[1024];
     static void Main(string[] args)
     {
         int Pointer = 0;
@@ -79,14 +79,14 @@ class Program
 
         window.DispatchEvents();
         int Scale = 16;
-        int X = 0;
+        int X = -16;
         int Y = 0;
         window.Clear();
         foreach (byte a in L)
         {
             if(X >= 32 * Scale)
             {
-                X = 0;
+                X = -16;
                 Y += Scale;
             }
             X += Scale;
