@@ -20,3 +20,5 @@ Otherwise the langauge is indentical. Tutorials for learning Brainf*ck can be fo
 7. "." Output the current byte to the screen (Not usually used in this case)
 
 8. "," Waits for next key typed into console and stores it into byte at pointer
+
+9.  "*" Used for drawing the current array to the screen
