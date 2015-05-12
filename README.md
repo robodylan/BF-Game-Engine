@@ -27,4 +27,5 @@ Otherwise the langauge is indentical. Tutorials for learning Brainf*ck can be fo
 **Examples**
 ---
 +[++++++++++++++++++++++++++++++++++++++++++>>++*] <- Draws a checkboard pattern
+
 +[>,*] <- Shows the text the user types color coded
