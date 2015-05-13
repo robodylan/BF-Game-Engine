@@ -30,14 +30,10 @@ E:\Tools\Sharp Develop\Data\SharpDevelop Projects\BFEngine\obj\Debug\BFEngine.ex
 E:\Tools\Sharp Develop\Data\SharpDevelop Projects\BFEngine\obj\Debug\BFEngine.pdb
 C:\Users\robod\Documents\GitHub\BF-Game-Engine\obj\Debug\BFEngine.exe
 C:\Users\robod\Documents\GitHub\BF-Game-Engine\obj\Debug\BFEngine.pdb
-C:\Users\robod\Documents\GitHub\BF-Game-Engine\bin\Debug\csfml-audio-2.dll
 C:\Users\robod\Documents\GitHub\BF-Game-Engine\bin\Debug\csfml-graphics-2.dll
-C:\Users\robod\Documents\GitHub\BF-Game-Engine\bin\Debug\csfml-network-2.dll
 C:\Users\robod\Documents\GitHub\BF-Game-Engine\bin\Debug\csfml-system-2.dll
 C:\Users\robod\Documents\GitHub\BF-Game-Engine\bin\Debug\csfml-window-2.dll
 C:\Users\robod\Documents\GitHub\BF-Game-Engine\bin\Debug\libsndfile-1.dll
-C:\Users\robod\Documents\GitHub\BF-Game-Engine\bin\Debug\openal32.dll
-C:\Users\robod\Documents\GitHub\BF-Game-Engine\bin\Debug\OpenTK.Compatibility.dll
 C:\Users\robod\Documents\GitHub\BF-Game-Engine\bin\Debug\OpenTK.dll
 C:\Users\robod\Documents\GitHub\BF-Game-Engine\bin\Debug\BFEngine.exe
 C:\Users\robod\Documents\GitHub\BF-Game-Engine\bin\Debug\BFEngine.pdb

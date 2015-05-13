@@ -17,8 +17,10 @@ class Program
     {
         int Pointer = 0;
         int CurPo = 0;
+        byte[] D;
         Stack<int> Tabs = new Stack<int>();
-        byte[] D = File.ReadAllBytes("src.dbs");
+        D = File.ReadAllBytes(args[0]);
+        Console.WriteLine("Could not load input file");
         while(CurPo < D.Length && Pointer < L.Length)
         {
             //Console.WriteLine(Tabs);
