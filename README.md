@@ -4,7 +4,9 @@ A Game Engine for Brainf*ck
 Usage
 ---
 Step 1. Write your source code into a plain text file
+
 Step 2. *BFEngine srcfile.dbs* (where srcfile.dbs is your source file)
+
 Step 3. Type input into the console window
 
 BFGE Visualizes the 1024 byte array that Brainf*ck uses in a 32x32 square grid.
