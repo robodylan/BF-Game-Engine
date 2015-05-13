@@ -3,7 +3,7 @@ A Game Engine for Brainf*ck
 
 Usage
 ---
-BFEngine srcfile.dbs (where srcfile.dbs is your source file)
+*BFEngine srcfile.dbs* (where srcfile.dbs is your source file)
 
 BFGE Visualizes the 1024 byte array that Brainf*ck uses in a 32x32 square grid.
 To stop tearing and flashing an extra command is added "*" used for updating the screen.
