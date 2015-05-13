@@ -23,7 +23,7 @@ Otherwise the langauge is indentical. Tutorials for learning Brainf*ck can be fo
  
 5. "[" Begins while loop
  
-6. "]" Goes to corresponding begin loop if pointer is not 0, otherwise it continues to the next instruction
+6. "]" Goes to corresponding begin loop if value at pointer is not 0, otherwise it continues to the next instruction
 
 7. "." Output the current byte to the screen (Not usually used in this case)
 
@@ -34,6 +34,6 @@ Otherwise the langauge is indentical. Tutorials for learning Brainf*ck can be fo
 
 **Examples**
 ---
-+[++++++++++++++++++++++++++++++++++++++++++>>++*] <- Draws a checkboard pattern
++[++++++++++++++++++++++++++++++++++++++++++>>++*] <- Draws a checkerboard pattern
 
 +[>,*] <- Shows the text the user types color coded
