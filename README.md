@@ -5,13 +5,13 @@ Usage
 ---
 Step 1. Write your source code into a plain text file
 
-Step 2. *BFEngine srcfile.dbs* (where srcfile.dbs is your source file)
+Step 2. `BFEngine srcfile.dbs` (where srcfile.dbs is your source file)
 
 Step 3. Type input into the console window
 
-BFGE Visualizes the 1024 byte array that Brainf*ck uses in a 32x32 square grid.
-To stop tearing and flashing an extra command is added "*" used for updating the screen.
-Otherwise the langauge is indentical. Tutorials for learning Brainf*ck can be found online but the commands are:
+BFGE Visualizes the 1024 byte array that Brainf\*ck uses in a 32x32 square grid.
+To stop tearing and flashing an extra command is added "\*" used for updating the screen.
+Otherwise the langauge is indentical. Tutorials for learning Brainf\*ck can be found online but the commands are:
 
 1. ">" Increment the pointer
  
@@ -29,7 +29,7 @@ Otherwise the langauge is indentical. Tutorials for learning Brainf*ck can be fo
 
 8. "," Waits for next key typed into console and stores it into byte at pointer
 
-9.  "*" Used for drawing the current array to the screen
+9. "*" Used for drawing the current array to the screen
 
 
 **Examples**
