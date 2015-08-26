@@ -34,6 +34,6 @@ Otherwise the langauge is indentical. Tutorials for learning Brainf\*ck can be f
 
 **Examples**
 ---
-+[++++++++++++++++++++++++++++++++++++++++++>>++*] <- Draws a checkerboard pattern
++[++++++++++++++++++++++++++++++++++++++++++>>++*] ;Draws a checkerboard pattern
 
-+[>,*] <- Shows the text the user types color coded
++[>,*] ;Shows the text the user types color coded
